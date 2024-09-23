@@ -1,0 +1,29 @@
+[
+  {
+    "app": "bs://1cef97eb74efd079cceb53151e29be3f8273ac48",
+    "appActivity": "com.baa.heathrow.splash.SplashActivity",
+    "appPackage": "com.baa.heathrow.qa",
+    "bundleId": "",
+    "validDomains": "",
+    "platformName": "Android",
+    "service": "BrowserStack",
+    "capabilities": {
+      "browserstack.appium_version": "1.15.0",
+      "os_version": "14.0",
+      "device": "Google Pixel 8",
+      "realMobile": "true",
+      "project": "LHR",
+      "build": "SSO",
+      "name": "Script1",
+      "app": "bs://1cef97eb74efd079cceb53151e29be3f8273ac48"
+    },
+    "configName": "Config test",
+    "deviceMode": true,
+    "proxyURL": "",
+    "serverURL": "https://nitinchauhan6:LH9oe2XoHwYqLME1HMQR@hub-cloud.browserstack.com/wd/hub",
+    "source": "path",
+    "capturePort": "",
+    "proxyHost": "",
+    "proxyPort": ""
+  }
+]
